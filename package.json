@@ -1,0 +1,14 @@
+{
+  "name": "html-slides",
+  "description": "Minimalistic, HTML based presentations.",
+  "author": "Tim Fischbach",
+  "email": "tfischbach@codevise.de",
+  "version": "1.0.0",
+  "dependencies": {
+    "bean": "*",
+    "domready": "*",
+    "bonzo": "*",
+    "qwery": "*"
+  },
+  "main": "main.js"
+}
